@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "照顧夾",
+    "slug": "care-folder-hk",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F6F3EC"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "hk.carefolder.app"
+    },
+    "platforms": ["ios", "android"],
+    "android": {
+      "package": "hk.carefolder.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#F6F3EC"
+      }
+    }
+  }
+}
